@@ -1,6 +1,6 @@
 import "../styles/Hero.css";
 import { FaArrowDown } from "react-icons/fa";
-import heroImage from "../assets/images/Hero.jpg";
+import heroImage from "../assets/images/hero.jpg";
 
 import {
   FaInstagram,
